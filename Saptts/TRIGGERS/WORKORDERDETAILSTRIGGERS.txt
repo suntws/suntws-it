@@ -1,0 +1,30 @@
+USE [orderdb]
+GO
+/****** Object:  Trigger [dbo].[trg_salesorderpart1]    Script Date: 20-11-2023 15:40:08 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER TRIGGER [dbo].[trg_salesorderpart1] ON [dbo].[workorderdetails] AFTER Insert
+AS
+begin
+	begin
+	declare @Pp nvarchar(50),@ObjCode int,@Event nvarchar(50),@id nvarchar(50)
+	SELECT @Pp=I.O_ID,@ObjCode=17,@Event='A',@id=I.ID FROM INSERTED I
+	if ((select count(*)from SISTAGING.dbo.workorderdetails where ID=@id)=0)
+	begin
+	
+	if (
+	select count(*) 
+	FROM orderdb.dbo.OrderMasterDetails O1 
+	INNER JOIN orderdb.DBO.usermaster U0 ON O1.CustCode=U0.ID 
+	WHERE ( (o1.Orderstatus =3 and U0.CustCode='DE0048') OR (o1.Orderstatus =23 and U0.CustCode<>'DE0048') ) AND O1.ID = @Pp
+	)>0
+	
+	BEGIN
+	
+		Exec [SISTAGING].dbo.[SORDRMASTER_v2] @PP,@Event,@ObjCode
+	END
+	end
+end
+END

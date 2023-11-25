@@ -1,0 +1,122 @@
+﻿.form-control
+{
+    display: block;
+    width: 300px;
+    height: 30px;
+    font-size: 14px;
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+.form-control:hover, .form-control:focus
+{
+    background-color: #555;
+    color: #fff;
+}
+.btn
+{
+    text-decoration: none;
+    padding: 4px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.btn-success
+{
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.btn-success:hover
+{
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+.btn-info
+{
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+.btn-info:hover
+{
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #269abc;
+}
+.spanCss
+{
+    color: Green;
+    font-weight: normal;
+    font-family: Times New Roman;
+    font-size: 14px;
+}
+.btn-warning
+{
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+.btn-warning:hover
+{
+    color: #fff;
+    background-color: #ec971f;
+    border-color: #d58512;
+}
+.btn-danger
+{
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+.btn-danger:hover
+{
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+.exporderhead
+{
+    width: 100%;
+    float: left;
+    background-color: #054a07;
+    font-size: 15px;
+    color: #ffffff;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-weight: bold;
+    height: 22px;
+    padding-top: 5px;
+}
+.gridcss
+{
+    width: 100%;
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+}
+.gridcss td
+{
+    padding: 2px;
+    border: solid 1px #c1c1c1;
+}
+.gridcss th
+{
+    padding: 4px 2px;
+    color: #ffffff;
+    background: #1762a5;
+    border-left: solid 1px #525252;
+    font-size: 0.9em;
+}
+.gridcss tr:hover
+{
+    background-color: #4293da;
+    font-weight: bold;
+}

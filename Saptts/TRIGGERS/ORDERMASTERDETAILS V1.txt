@@ -1,0 +1,37 @@
+USE [orderdb]
+GO
+/****** Object:  Trigger [dbo].[TRG_ordermaster]    Script Date: 21-11-2023 10:39:24 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER TRIGGER [dbo].[TRG_ordermaster] ON [dbo].[OrderMasterDetails] AFTER UPDATE
+AS
+BEGIN
+	declare @ID nvarchar(50),@ObjCode int,@Event nvarchar(50)
+	SELECT @ID=I.ID,@ObjCode=17,@Event='U' FROM inserted I
+	if(update(orderstatus))
+	BEGIN
+		if exists( select orderstatus from OrderMasterDetails where  id=@ID)
+			BEGIN
+	
+		if (
+	select count(*) 
+	FROM orderdb.dbo.OrderMasterDetails O1 
+	INNER JOIN orderdb.DBO.usermaster U0 ON O1.CustCode=U0.ID 
+	WHERE ( (o1.Orderstatus <>3 and U0.CustCode='DE0048'  AND O1.ID = @ID) OR (o1.Orderstatus <>23 and U0.CustCode<>'DE0048'  AND O1.ID = @ID) ) )>0
+	SELECT NULL
+			--Exec [SISTAGING].dbo.[SORDRMASTER_v2] @ID,@Event,@ObjCode
+		end
+	end
+
+END
+
+
+
+
+
+
+
+
+   
