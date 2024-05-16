@@ -1,0 +1,60 @@
+H:\D LOCATION\Projects\TTS\TTS\bin\TTS.dll
+H:\D LOCATION\Projects\TTS\TTS\bin\TTS.pdb
+H:\D LOCATION\Projects\TTS\TTS\bin\Ionic.Zip.dll
+H:\D LOCATION\Projects\TTS\TTS\bin\itextsharp.dll
+H:\D LOCATION\Projects\TTS\TTS\obj\Debug\TTS.dll
+H:\D LOCATION\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\NATHAN\Projects\TTS\TTS\bin\TTS.dll
+D:\NATHAN\Projects\TTS\TTS\bin\TTS.pdb
+D:\NATHAN\Projects\TTS\TTS\obj\Debug\TTS.dll
+D:\NATHAN\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\TTS\TTS\bin\TTS.dll
+D:\Projects\TTS\TTS\bin\TTS.pdb
+D:\Projects\TTS\TTS\obj\Debug\TTS.dll
+D:\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\TTS.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\bin\TTS.dll
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\bin\TTS.pdb
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.dll
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.xml
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.xml
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\TTS.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\DocumentFormat.OpenXml.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ExcelNumberFormat.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.pdb
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\DocumentFormat.OpenXml.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ExcelNumberFormat.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+E:\WEB PROJECTS\TTS\TTS\bin\TTS.dll.config
+E:\WEB PROJECTS\TTS\TTS\bin\TTS.dll
+E:\WEB PROJECTS\TTS\TTS\bin\TTS.pdb
+E:\WEB PROJECTS\TTS\TTS\bin\ClosedXML.dll
+E:\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.dll
+E:\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.dll
+E:\WEB PROJECTS\TTS\TTS\bin\Newtonsoft.Json.dll
+E:\WEB PROJECTS\TTS\TTS\bin\ClosedXML.pdb
+E:\WEB PROJECTS\TTS\TTS\bin\ClosedXML.xml
+E:\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.xml
+E:\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.xml
+E:\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+E:\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+E:\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csproj.CopyComplete
+E:\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.dll
+E:\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.pdb

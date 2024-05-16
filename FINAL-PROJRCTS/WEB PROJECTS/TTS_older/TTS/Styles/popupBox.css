@@ -1,0 +1,17 @@
+﻿
+/* popup_box DIV-Styles*/
+#popup_box{display: none;position: absolute;_position: absolute;height: auto;width: 298px;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 12px;line-height: 25px;cursor: pointer;}
+#container{background: #d2d2d2;width: 100%;height: 100%;}
+a{cursor: pointer;text-decoration: none;}
+/* This is for the positioning of the Close Link */
+#popupBoxClose{font-size: 20px;line-height: 15px;right: 5px;top: 5px;position: absolute;color: #6fa5e2;font-weight: 500;}
+#popup_box_cust{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_price{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_rates{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_EmptyType{display: none;position: absolute;_position: absolute;height: 100px;background: #a5a5a5;top: 465px;z-index: 100;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;}
+#popup_box_cust1{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_price1{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_cust2{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#popup_box_price2{display: none;position: absolute;_position: absolute;background: #FFFFFF;left: 385px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 13px;line-height: 25px;cursor: pointer;height: 350px;overflow-y: scroll;}
+#divNullValuePopup{display: none;position: absolute;_position: absolute;height: auto;left: 180px;top: 230px;z-index: 100;margin-left: 15px;border: 3px solid #8FFF00;font-size: 13px;line-height: 25px;width:955px;background-color: #ccc;min-height: 200px;}
+#popup_feedback_box{display: none;position: absolute;_position: absolute;height: auto;width: 640px;background: #636263;left: 285px;top: 268px;z-index: 100;margin-left: 15px;border: 2px solid #ff0000;font-size: 12px;line-height: 25px;color:#fff;}

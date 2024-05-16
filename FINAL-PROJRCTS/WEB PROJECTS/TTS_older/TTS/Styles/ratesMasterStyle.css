@@ -1,0 +1,13 @@
+﻿.sizeHeaderDiv{width: 930px; float: left; text-align: center; position: static;font-weight: bold;}
+.sizeChildDiv{width: 228px; float: left; padding-right: 10px;}
+.sizefirstSpan{width: 150px; float: left; border: 1px solid #000; background-color: #fefe8b;height:36px;}
+.sizesecondSpan{width: 73px; float: left; border: 1px solid #000; background-color: #fefe8b;height:36px;}
+.gvSizeVisible{display: none;}
+.sizeChildTypeDiv{width: 190px; float: left; padding-left: 25px;}
+.sizefirstTypeSpan{width: 70px; float: left; border: 1px solid #000; background-color: #fefe8b;height:36px;}
+.sizesecondTypeSpan{width: 90px; float: left; border: 1px solid #000; background-color: #fefe8b;height:36px;}
+.ratesMastedTD{width: 100%; padding-left: 10px; padding-top: 5px;}
+.ratesMasterCostDiv{width: 233px; float: left;}
+.ratesCostMainDiv{border: 1px solid #000; width: 932px; float: left; background-color: #f3f7da;}
+.txtSizeNum{background-color:#fcedc7;text-align:right;width:70px;}
+.txtCostNum{background-color:#fcedc7;text-align:right;width:100px;}

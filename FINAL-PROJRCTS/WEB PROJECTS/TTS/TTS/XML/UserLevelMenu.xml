@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<userlevel>
+  <level key="customermaster" text="Customer Master" menuvisible="masterlevel"></level>
+  <level key="masterdata" text="Master Data Entry" menuvisible="masterlevel"></level>
+  <level key="pricesheet_build" text="PriceSheet Prepare/Compare" menuvisible="masterlevel"></level>
+  <level key="ratesid_build" text="Rates-ID Prepare" menuvisible="masterlevel"></level>
+  <level key="type_masterdata" text="Type Master Data" menuvisible="masterlevel"></level>
+
+  <level key="processid_request" text="Process-ID Check/Create" menuvisible="dashboardlevel"></level>
+  <level key="processid_create" text="Edc No Assign To Tyre size" menuvisible="dashboardlevel"></level>
+  <level key="orderposition_entry" text="Order Position Entry" menuvisible="dashboardlevel"></level>
+  <level key="orderposition_all" text="Order Position All" menuvisible="dashboardlevel"></level>
+  <level key="orderposition_domestic" text="Order Position Domestic" menuvisible="dashboardlevel"></level>
+  <level key="stock_report" text="Stock Report" menuvisible="dashboardlevel"></level>
+  <level key="roomreserve" text="Room Reservation" menuvisible="dashboardlevel"></level>
+  <level key="gradeselect_entry" text="Grade Selection Entry" menuvisible="dashboardlevel"></level>
+  <level key="gradeselect_tool" text="Grade Selection Tool" menuvisible="dashboardlevel"></level>
+  <level key="makemodel_entry" text="Make-Model Entry" menuvisible="dashboardlevel"></level>
+  <level key="makemodel_search" text="Make-Model Search" menuvisible="dashboardlevel"></level>
+  <level key="img_upload" text="Images Upload" menuvisible="dashboardlevel"></level>
+  <level key="img_download" text="Images Download" menuvisible="dashboardlevel"></level>
+  <level key="dwg_request" text="Drawing Request" menuvisible="dashboardlevel"></level>
+  <level key="dwg_upload" text="Drawing Upload" menuvisible="dashboardlevel"></level>
+  <level key="dwg_edc_level1" text="Drawing EDC Approve 1" menuvisible="dashboardlevel"></level>
+  <level key="dwg_edc_level2" text="Drawing EDC Approve 2" menuvisible="dashboardlevel"></level>
+  <level key="dwg_edc_level3" text="Drawing EDC Approve 3" menuvisible="dashboardlevel"></level>
+  <level key="dwg_crm_approve" text="Drawing CRM Approve" menuvisible="dashboardlevel"></level>
+  <level key="dwg_allocate" text="Drawing Allocation" menuvisible="dashboardlevel"></level>
+  <level key="dwg_download" text="Drawing Download" menuvisible="dashboardlevel"></level>
+
+  <level key="prospect_assign" text="Assign" menuvisible="prospectlevel"></level>
+  <level key="prospect_leadfeedback" text="Lead Feedback" menuvisible="prospectlevel"></level>
+  <level key="prospect_reviewexp" text="Review Export" menuvisible="prospectlevel"></level>
+  <level key="prospect_reviewdom" text="Review Domestic" menuvisible="prospectlevel"></level>
+
+  <level key="dom_quote" text="Quote Prepare/Revise" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_orderentry" text="Order Entry" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_plantassign" text="Plant Assign" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_proforma" text="Proforma/Workorder Prepare" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_substitution" text="Substitution/Liquidation" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_paymentconfirm" text="Payment Confirmation" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_invoice" text="Invoice Prepare" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_ordertrack" text="Track Order" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pricechange" text="Price Change" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_ordersplit" text="Order Split" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_revise" text="Order Revise/Cancel" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_usermaster" text="Customer Master Data" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_paymentcontrol" text="Credit Hold/Revoke &amp; Credit Period" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_leadassign" text="Customer Lead Assign" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pricecreate" text="Price Published" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pdi_mmn" text="PDI MMN Inspection" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pdi_mmn_approval" text="PDI MMN Approval" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pdi_pdk" text="PDI PDK Inspection" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_pdi_pdk_approval" text="PDI PDK Approval" menuvisible="scotsdomesticlevel"></level>
+  <level key="ot_qcmmn" text="PPC MMN" menuvisible="scotsdomesticlevel"></level>
+  <level key="ot_qcpdk" text="PPC PDK" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_earmark_mmn" text="Stencil Assign MMN" menuvisible="scotsdomesticlevel"></level>
+  <level key="dom_earmark_pdk" text="Stencil Assign PDK" menuvisible="scotsdomesticlevel"></level>
+
+  <level key="exp_orderentry" text="Order Entry" menuvisible="scotsexportlevel"></level>
+  <level key="exp_plantassign" text="Plant Assign" menuvisible="scotsexportlevel"></level>
+  <level key="exp_proforma" text="Proforma/Workorder Prepare" menuvisible="scotsexportlevel"></level>
+  <level key="ot_ppcmmn" text="PPC MMN" menuvisible="scotsexportlevel"></level>
+  <level key="ot_ppc_sltl" text="PPC SLTL" menuvisible="scotsexportlevel"></level>
+  <level key="ot_ppc_sitl" text="PPC SITL" menuvisible="scotsexportlevel"></level>
+  <level key="ot_ppcpdk" text="PPC PDK" menuvisible="scotsexportlevel"></level>
+  <level key="ot_logisticsmmn" text="Logistics MMN" menuvisible="scotsexportlevel"></level>
+  <level key="ot_logistics_sltl" text="Logistics SLTL" menuvisible="scotsexportlevel"></level>
+  <level key="ot_logistics_sitl" text="Logistics SITL" menuvisible="scotsexportlevel"></level>
+  <level key="ot_logisticspdk" text="Logistics Pdk" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_mmn" text="PDI MMN Inspection" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_mmn_approval" text="PDI MMN Approval" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_sltl" text="PDI SLTL Inspection" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_sltl_approval" text="PDI SLTL Approval" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_sitl" text="PDI SITL Inspection" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_sitl_approval" text="PDI SITL Approval" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_pdk" text="PDI PDK Inspection" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pdi_pdk_approval" text="PDI PDK Approval" menuvisible="scotsexportlevel"></level>
+  <level key="exp_earmark_mmn" text="Stencil Assign MMN" menuvisible="scotsexportlevel"></level>
+  <level key="exp_earmark_sltl" text="Stencil Assign SLTL" menuvisible="scotsexportlevel"></level>
+  <level key="exp_earmark_sitl" text="Stencil Assign SITL" menuvisible="scotsexportlevel"></level>
+  <level key="exp_earmark_pdk" text="Stencil Assign PDK" menuvisible="scotsexportlevel"></level>
+  <level key="prod_approval_mmn" text="Production Approval MMN" menuvisible="scotsexportlevel"></level>
+  <level key="prod_approval_sltl" text="Production Approval SLTL" menuvisible="scotsexportlevel"></level>
+  <level key="prod_approval_sitl" text="Production Approval SITL" menuvisible="scotsexportlevel"></level>
+  <level key="prod_approval_pdk" text="Production Approval PDK" menuvisible="scotsexportlevel"></level>
+  <level key="exp_substitution" text="Substitution/Liquidation" menuvisible="scotsexportlevel"></level>
+  <level key="exp_documents" text="Post Shipment Documents" menuvisible="scotsexportlevel"></level>
+  <level key="exp_ordertrack" text="Tarck Order" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pricechange" text="Price Change" menuvisible="scotsexportlevel"></level>
+  <level key="exp_ordersplit" text="Order Split" menuvisible="scotsexportlevel"></level>
+  <level key="exp_revise" text="Order Revise/Cancel" menuvisible="scotsexportlevel"></level>
+  <level key="exp_usermaster" text="Customer Master Data" menuvisible="scotsexportlevel"></level>
+  <level key="exp_paymentcontrol" text="Credit Hold/Revoke &amp; Credit Period" menuvisible="scotsexportlevel"></level>
+  <level key="exp_leadassign" text="Customer Lead Assign" menuvisible="scotsexportlevel"></level>
+
+  <level key="claim_stencilassign" text="Stencil Assign To QC" menuvisible="claimlevel"></level>
+  <level key="claim_qc_mmn" text="QC Analysis MMN" menuvisible="claimlevel"></level>
+  <level key="claim_qc_sltl" text="QC Analysis SLTL" menuvisible="claimlevel"></level>
+  <level key="claim_qc_sitl" text="QC Analysis SITL" menuvisible="claimlevel"></level>
+  <level key="claim_qc_pdk" text="QC Analysis PDK" menuvisible="claimlevel"></level>
+  <level key="claim_edc_mmn" text="EDC Opinion MMN" menuvisible="claimlevel"></level>
+  <level key="claim_edc_sltl" text="EDC Opinion SLTL" menuvisible="claimlevel"></level>
+  <level key="claim_edc_sitl" text="EDC Opinion SITL" menuvisible="claimlevel"></level>
+  <level key="claim_edc_pdk" text="EDC Opinion PDK" menuvisible="claimlevel"></level>
+  <level key="claim_crm_exp" text="CRM Opinion Export" menuvisible="claimlevel"></level>
+  <level key="claim_crm_dom" text="CRM Opinion Domestic" menuvisible="claimlevel"></level>
+  <level key="claim_creditnote_settle_exp" text="Credit Note Prepare/Settlement Export" menuvisible="claimlevel"></level>
+  <level key="claim_creditnote_settle_dom" text="Credit Note Prepare/Settlement Domestic" menuvisible="claimlevel"></level>
+  <level key="claim_dispatch_mmn" text="Claim Dispatch MMN" menuvisible="claimlevel"></level>
+  <level key="claim_dispatch_pdk" text="Claim Dispatch PDK" menuvisible="claimlevel"></level>
+  <level key="claim_track" text="Track Claim Data" menuvisible="claimlevel"></level>
+  <level key="claim_imagelibrary_entry" text="Claim Images Library Entry" menuvisible="claimlevel"></level>
+  <level key="claim_imagelibrary_view" text="Claim Images Library Report" menuvisible="claimlevel"></level>
+</userlevel>

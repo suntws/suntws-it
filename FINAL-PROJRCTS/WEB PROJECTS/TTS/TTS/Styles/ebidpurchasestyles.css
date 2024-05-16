@@ -1,0 +1,69 @@
+﻿.masterpage
+{
+    border-collapse: collapse;
+    border-color: #868282;
+    width: 1080px;
+    line-height: 20px;
+}
+.masterpage input[type="text"], textarea, select
+{
+    margin-left: 10px;
+}
+.masterpage th
+{
+    background-color: #EEEEEC;
+    text-align: left;
+    padding-left: 10px;
+    width: 130px;
+    font-weight: bold;
+}
+.tbMaster th
+{
+    background-color: #FEFE8B;
+    text-align: center;
+    width: 130px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.tbMasterList th
+{
+    background-color: #FEFE8B;
+    text-align: center;
+    width: 130px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.tbAssignList th
+{
+    background-color: #79BBFF;
+    text-align: center;
+    width: 130px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.enquirypage
+{
+    border-collapse: collapse;
+    border-color: #868282;
+    width: 1080px;
+    line-height: 20px;
+}
+.enquirypage input[type="text"], textarea, select
+{
+    margin-left: 10px;
+}
+.enquirypage th
+{
+    text-align: center;
+    padding-left: 10px;
+    width: 130px;
+    font-weight: bold;
+}
+.tbEnquiryList th
+{
+    background-color: #79BBFF;
+    text-align: center;
+    width: 130px;
+    font-weight: bold;
+    line-height: 20px;
+}

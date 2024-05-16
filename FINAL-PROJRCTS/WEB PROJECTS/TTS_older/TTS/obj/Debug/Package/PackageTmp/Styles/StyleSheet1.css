@@ -1,0 +1,160 @@
+﻿.font_14
+{
+    font: normal normal 14px "klavika-web" , "Helvetica Neue" , Helvetica, Arial, Geneva, sans-serif;
+    color: White;
+}
+
+.font_16
+{
+    font: normal normal 16px "klavika-web" , "Helvetica Neue" , Helvetica, Arial, Geneva, sans-serif;
+    color: White;
+}
+
+.lblMargin
+{
+    margin: 5px 5px 5px 5px;
+}
+
+.selected
+{
+    color: rgba(156, 156, 156, 0.8);
+}
+
+.col-1
+{
+    width: 8.33%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-2
+{
+    width: 16.66%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-3
+{
+    width: 24.99%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-4
+{
+    width: 33.32%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-5
+{
+    width: 41.65%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-6
+{
+    width: 49.98%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-7
+{
+    width: 58.31%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-8
+{
+    width: 66.64%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-9
+{
+    width: 74.97%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-10
+{
+    width: 83.30%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-11
+{
+    width: 91.64%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.col-12
+{
+    width: 100%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+
+.row
+{
+    width: 100%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+    white-space: nowrap;
+}
+
+.black
+{
+    color: Black;
+}
+
+.outerContainer
+{
+    width: 100%;
+    height: 90%;
+    overflow: hidden;
+}
+
+.innerContainer
+{
+    overflow: auto;
+    padding-right: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.pad-left-0
+{
+    padding-left: 0px;
+}
+
+.pad-right-0
+{
+    padding-right: 0px;
+}
+
+.font_18
+{
+    font-size: 18px;
+}
+
+.font_20
+{
+    font: normal normal 20px "klavika-web" , "Helvetica Neue" , Helvetica, Arial, Geneva, sans-serif;
+    color: White;
+}
+

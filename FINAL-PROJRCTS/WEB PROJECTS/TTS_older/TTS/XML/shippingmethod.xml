@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<shipping>
+  <packing item="Palletization" id="1"></packing>
+  <packing item="Loose cargo" id="2"></packing>
+  <packing item="Others" id="3"></packing>
+
+  <freight item="To Pay" id="1"></freight>
+  <freight item="Paid" id="2"></freight>
+
+  <delivery item="Door" id="1"></delivery>
+  <delivery item="Transporters Godown" id="2"></delivery>
+  <delivery item="Ex-factory" id="3"></delivery>
+
+  <ocean item="FOB" id="1"></ocean>
+  <ocean item="CIF" id="2"></ocean>
+  <ocean item="DDU" id="3"></ocean>
+  <ocean item="DDP" id="4"></ocean>
+  <ocean item="C&amp;F" id="5"></ocean>
+
+  <air item="FOB" id="1"></air>
+  <air item="DAP" id="2"></air>
+  <air item="C&amp;F" id="3"></air>
+
+  <road item="FOB" id="1"></road>
+  <road item="FOR" id="2"></road>
+
+  <cargo item="Palletization" id="1"></cargo>
+  <cargo item="No Palletization" id="2"></cargo>
+  <cargo item="Crating" id="3"></cargo>
+  <cargo item="Others" id="4"></cargo>
+
+</shipping>

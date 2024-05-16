@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<customer>
+	<type item="End user" id="4"></type>
+	<type item="Corporate" id="2"></type>
+	<type item="Dealer" id="1"></type>
+	<type item="OEM" id="3"></type>
+	<type item="Competitor" id="5"></type>
+	<type item="ME" id="6"></type>
+
+	<channel item="Direct" id="1"></channel>
+	<channel item="Agent" id="2"></channel>
+
+	<basis item="FOB" id="1"></basis>
+	<basis item="CIF" id="2"></basis>
+	<basis item="DAP" id="3"></basis>
+	<basis item="DDP" id="4"></basis>
+</customer>

@@ -1,0 +1,12 @@
+﻿#dss {display: none;}
+#dss .slide{cursor: pointer;font-size: 12px;font-family: arial;border: 1px solid #fff;margin: 3px;padding: 4px;text-align: center;}
+#dss .slide-container{}
+#dss .separator{border: 0px solid #222;}
+#dss .control{font-size: 10px;width: 12px;cursor: pointer;}
+#dss .control-container{display: none;}
+#dss .control-active{text-decoration: underline;}
+#dss .control-hover{text-decoration: underline;font-weight: bold;}
+.userHead{float: left;font-size: 16px; font-weight: bold; width: 230px; text-align: left;padding-left: 5px;}
+.slideMainDiv{float: left; padding-left: 40px;}
+.userdetails{font-size: 16px;padding-top:5px;color:#082ADA;text-decoration:none;background-color:#c30b0b;margin-right: 7px;width: 70px; float: right; text-align: center; padding: 7px;border-radius:5px;}
+.userdetails:hover{cursor:pointer;text-decoration:underline;font-weight:bold;}

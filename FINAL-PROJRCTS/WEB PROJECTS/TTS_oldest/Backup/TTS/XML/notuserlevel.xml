@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<notuserlevel>
+  <level key="userprivilege" text="User Privilege" menuvisible="masterlevel"></level>
+
+  <level key="s3_network" text="3S Network" menuvisible="dashboardlevel"></level>
+
+  <level key="exp_quote" text="Quote Prepare/Revise" menuvisible="scotsexportlevel"></level>
+  <level key="exp_porduction" text="Production Planning" menuvisible="scotsexportlevel"></level>
+  <level key="exp_paymentconfirm" text="Payment Confirmation" menuvisible="scotsexportlevel"></level>
+  <level key="exp_invoice" text="Invoice Prepare" menuvisible="scotsexportlevel"></level>
+  <level key="exp_cargo_masterdata" text="Cargo Master Data" menuvisible="scotsexportlevel"></level>
+  <level key="exp_cargo_planning" text="Cargo Planning" menuvisible="scotsexportlevel"></level>
+  <level key="exp_pricecreate" text="Price Published" menuvisible="scotsexportlevel"></level>
+
+  <level key="ot_crmexp" text="CRM Export" menuvisible="ordertrackinglevel"></level>
+  <level key="ot_crmdom" text="CRM Domestic" menuvisible="ordertrackinglevel"></level>
+  <level key="ot_purchasemmn" text="Purchase MMN" menuvisible="ordertrackinglevel"></level>
+  <level key="ot_purchasepdk" text="Purchase PDK" menuvisible="ordertrackinglevel"></level>
+  <level key="ot_review" text="Review/Dashboard" menuvisible="ordertrackinglevel"></level>
+
+  <level key="ebid_masterdata" text="Master Data Entry" menuvisible="ebidlevel"></level>
+  <level key="ebid_track" text="Track Enquiry/Purchase Order" menuvisible="ebidlevel"></level>
+  <level key="ebid_process" text="Prepare/Process" menuvisible="ebidlevel"></level>
+</notuserlevel>

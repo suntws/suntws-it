@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<export>
+  <documents item="INVOICE &amp; PACKING LIST"></documents>
+  <documents item="BILL OF LADING"></documents>
+  <documents item="SHIPPING BILL"></documents>
+  <documents item="CERTIFICATE OF ORIGIN"></documents>
+  <documents item="ISF"></documents>
+  <documents item="GSP"></documents>
+  <documents item="FUMIGATION CERTIFICATE"></documents>
+  <documents item="CUSTOMS SHIPPING BILL"></documents>
+  <documents item="B/L (MULTIMODAL TRANSPORT DOCUMENT)"></documents>
+  <documents item="CERTIFICATE OF INSURANCE"></documents>
+
+  <paymode item="ADVANCE" id="advance"></paymode>
+  <paymode item="LC" id="lc"></paymode>
+  <paymode item="PAYMENT AGAINST SHIPPING DOCUMENTS" id="payagainst"></paymode>
+  <paymode item="OPEN CREDIT FROM DATE OF BL" id="opencredit"></paymode>
+
+  <advance item="FULL" id="100"></advance>
+  <advance item="PARTIAL" id=""></advance>
+
+  <lc item="AT SIGHT" id="0"></lc>
+  <lc item="30 DAYS" id="30"></lc>
+  <lc item="60 DAYS" id="60"></lc>
+  <lc item="90 DAYS" id="90"></lc>
+  <lc item="120 DAYS" id="120"></lc>
+  <lc item="150 DAYS" id="150"></lc>
+  <lc item="OTHER DAYS" id=""></lc>
+
+  <opencredit item="30 DAYS" id="30"></opencredit>
+  <opencredit item="60 DAYS" id="60"></opencredit>
+  <opencredit item="90 DAYS" id="90"></opencredit>
+  <opencredit item="120 DAYS" id="120"></opencredit>
+  <opencredit item="150 DAYS" id="150"></opencredit>
+  <opencredit item="OTHER DAYS" id=""></opencredit>
+
+  <Category item="WHOLE SALE" id="WHOLE SALE"> </Category>
+  <Category item="DISTRIBUTOR" id="DISTRIBUTOR"> </Category>
+  <Category item="REGIONAL DEALER" id="REGIONAL DEALER"> </Category>
+  <Category item="OEM" id="OEM"> </Category>
+  <Category item="END USER" id="END USER"> </Category>
+  <Category item="CONTRACT MANUFACTURING" id="CONTRACT MANUFACTURING"> </Category>
+  <Category item="REFURBISHED" id="REFURBISHED"> </Category>
+</export>

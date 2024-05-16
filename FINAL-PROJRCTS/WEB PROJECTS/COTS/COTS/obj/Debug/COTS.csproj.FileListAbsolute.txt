@@ -1,0 +1,17 @@
+E:\Projects\COTS\COTS\COTS\bin\COTS.dll
+E:\Projects\COTS\COTS\COTS\bin\COTS.pdb
+E:\Projects\COTS\COTS\COTS\obj\Debug\COTS.dll
+E:\Projects\COTS\COTS\COTS\obj\Debug\COTS.pdb
+E:\Projects\COTS\COTS\bin\COTS.dll
+E:\Projects\COTS\COTS\bin\COTS.pdb
+E:\Projects\COTS\COTS\obj\Debug\COTS.dll
+E:\Projects\COTS\COTS\obj\Debug\COTS.pdb
+D:\Projects\COTS\COTS\bin\COTS.dll
+D:\Projects\COTS\COTS\bin\COTS.pdb
+D:\Projects\COTS\COTS\obj\Debug\COTS.dll
+D:\Projects\COTS\COTS\obj\Debug\COTS.pdb
+D:\Projects\WEB PROJECTS\COTS\COTS\bin\COTS.dll
+D:\Projects\WEB PROJECTS\COTS\COTS\bin\COTS.pdb
+D:\Projects\WEB PROJECTS\COTS\COTS\obj\Debug\COTS.csprojResolveAssemblyReference.cache
+D:\Projects\WEB PROJECTS\COTS\COTS\obj\Debug\COTS.dll
+D:\Projects\WEB PROJECTS\COTS\COTS\obj\Debug\COTS.pdb

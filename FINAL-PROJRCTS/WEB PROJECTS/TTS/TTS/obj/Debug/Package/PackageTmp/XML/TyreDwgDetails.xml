@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TyreDwg>
+  <multipiecerims>
+    <list key="Choose" text="Choose"></list>
+    <list key="2" text="2"></list>
+    <list key="3" text="3"></list>
+    <list key="4" text="4"></list>
+    <list key="5" text="5"></list>
+    <list key="6" text="6"></list>
+    <list key="7" text="7"></list>
+  </multipiecerims>
+  <Angle>
+    <list key="Choose" text="Choose"></list>
+    <list key="43" text="43"></list>
+    <list key="45" text="45"></list>
+    <list key="60" text="60"></list>
+    <list key="70" text="70"></list>
+    <list key="80" text="80"></list>
+    <list key="90" text="90"></list>
+    <list key="100" text="100"></list>
+    <list key="110" text="110"></list>
+    <list key="120" text="120"></list>
+  </Angle>
+  <Radius>
+    <list key="Choose" text="Choose"></list>
+    <list key="R4" text="R4"></list>
+    <list key="R5" text="R5"></list>
+    <list key="R6" text="R6"></list>
+    <list key="R7" text="R7"></list>
+    <list key="R8" text="R8"></list>
+    <list key="R9" text="R9"></list>
+    <list key="R10" text="R10"></list>
+    <list key="R11" text="R11"></list>
+    <list key="R12" text="R12"></list>
+    <list key="R13" text="R13"></list>
+    <list key="R14" text="R14"></list>
+    <list key="R15" text="R15"></list>
+    <list key="R16" text="R16"></list>
+    <list key="R17" text="R17"></list>
+    <list key="R18" text="R18"></list>
+    <list key="R19" text="R19"></list>
+    <list key="R20" text="R20"></list>
+    <list key="R21" text="R21"></list>
+    <list key="R22" text="R22"></list>
+    <list key="R23" text="R23"></list>
+    <list key="R24" text="R24"></list>
+    <list key="R25" text="R25"></list>
+    <list key="R26" text="R26"></list>
+    <list key="R27" text="R27"></list>
+    <list key="R28" text="R28"></list>
+    <list key="R29" text="R29"></list>
+    <list key="R30" text="R30"></list>
+  </Radius>
+  <NoOfHoles>
+    <list key="--SELECT--" text="--SELECT--"></list>
+    <list key="3" text="3"></list>
+    <list key="4" text="4"></list>
+    <list key="5" text="5"></list>
+    <list key="6" text="6"></list>
+    <list key="8" text="8"></list>
+    <list key="9" text="9"></list>
+    <list key="10" text="10"></list>
+    <list key="12" text="12"></list>
+    <list key="13" text="13"></list>
+    <list key="14" text="14"></list>
+    <list key="16" text="16"></list>
+    <list key="18" text="18"></list>
+    <list key="0" text="0"></list>
+  </NoOfHoles>
+</TyreDwg>

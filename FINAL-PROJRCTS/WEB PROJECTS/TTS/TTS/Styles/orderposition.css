@@ -1,0 +1,228 @@
+﻿.txtRightAlign
+{
+    text-align: right;
+    width: 50px;
+    height: 19px;
+    border: 1px solid #000;
+}
+.txtRightAlign:focus
+{
+    text-align: right;
+    background-color: #59f78a;
+    width: 50px;
+    height: 19px;
+    border: 1px solid #000;
+}
+.txtTotal
+{
+    text-align: right;
+    width: 60px;
+    height: 19px;
+    font-weight: bold;
+}
+.tbMain
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 1076px;
+    float: left;
+}
+.tbMain th
+{
+    background-color: #238d08;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+}
+.tbMainMonth
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 1076px;
+    float: left;
+}
+.tbMainMonth th
+{
+    background-color: #496077;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+}
+.tbHead
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 108px;
+    float: left;
+}
+.tbHead th
+{
+    font-weight: bold;
+    text-align: left;
+    line-height: 30px;
+    background-color: #e4f7cf;
+}
+.tbHeadMonth
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 108px;
+    float: left;
+}
+.tbHeadMonth th
+{
+    font-weight: bold;
+    text-align: left;
+    line-height: 30px;
+    background-color: #ffec64;
+}
+.tbInflow
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbInflow th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #d7f785;
+}
+.tbInflow td
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    background-color: #fffbf0;
+}
+.tbInflowMonth
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbInflowMonth th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #f6fddb;
+}
+.tbInflowMonth td
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 30px;
+    background-color: #ffffff;
+}
+.tbInflowMonth td:last-child
+{
+    font-size: 16px;
+    background-color: #dbffff;
+}
+.tbDespatch
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbDespatch th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #fcedc7;
+}
+.tbDespatch td
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    background-color: #fff6f6;
+}
+.tbDespatchMonth
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbDespatchMonth th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #f0fbff;
+}
+.tbDespatchMonth td
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 30px;
+    background-color: #ffffff;
+}
+.tbDespatchMonth td:last-child
+{
+    font-size: 16px;
+    background-color: #c6ffd7;
+}
+.tbBacklog
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbBacklog th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #fcd7d7;
+}
+.tbBacklog td
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    background-color: #f7ffed;
+}
+.tbBacklogMonth
+{
+    border-collapse: collapse;
+    border-color: #000;
+    width: 318px;
+    float: left;
+}
+.tbBacklogMonth th
+{
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    width: 25%;
+    background-color: #fbf2d7;
+}
+.tbBacklogMonth td
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 30px;
+    background-color: #ffffff;
+}
+.tbBacklogMonth td:last-child
+{
+    font-size: 16px;
+    background-color: #eafbc3;
+}

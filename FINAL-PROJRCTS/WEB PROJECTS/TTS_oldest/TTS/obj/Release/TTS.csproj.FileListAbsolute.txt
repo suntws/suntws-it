@@ -1,0 +1,4 @@
+D:\Projects\TTS\TTS\bin\TTS.dll
+D:\Projects\TTS\TTS\bin\TTS.pdb
+D:\Projects\TTS\TTS\obj\Release\TTS.dll
+D:\Projects\TTS\TTS\obj\Release\TTS.pdb
