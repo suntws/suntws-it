@@ -1,0 +1,471 @@
+D:\Projects\WINDOWSAPP\GT\GT\bin\Debug\GT.exe
+D:\Projects\WINDOWSAPP\GT\GT\bin\Debug\GT.pdb
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.MdiForm.resources
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.Properties.Resources.resources
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.exe
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.pdb
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.frmLogin.resources
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.frmUserCreate.resources
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.frmWeightClassMaster.resources
+D:\Projects\WINDOWSAPP\GT\GT\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+F:\GT Source\GT\bin\Debug\GT.exe.config
+F:\GT Source\GT\obj\x86\Debug\GT.exe
+F:\GT Source\GT\obj\x86\Debug\GT.pdb
+F:\GT Source\GT\bin\Debug\GT.exe
+F:\GT Source\GT\bin\Debug\GT.pdb
+F:\GT Source\GT\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+F:\GT Source\GT\obj\x86\Debug\GT.FrictionBlend.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmPlanInline.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWeighPlan.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmPlanRevoke.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmChangePass.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmPressSlotMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmCustomerBarcode.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmDailyProdRpt.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmDashboard.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmDefectImage.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmLoad.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmCureMasterAddress.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmProdPlan.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmRePrint.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmSuspendActive.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWeighSelectManual.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmStencilProdModify.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmTtsIntegration.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmBlendMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmCancelStencil.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmDefectD4Master.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmInspectReview.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmGtBuild.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmLogin.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmFrictionMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmMouldMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmOrderPressAssign.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmPressMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmOrderImport.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmUnload.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmTypeMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmUserCreate.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWeightVariant.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWeightMaster.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmGtWeigh.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWeightTolerance.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmInspect.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmStencilDataModify.resources
+F:\GT Source\GT\obj\x86\Debug\GT.frmWoProdQty.resources
+F:\GT Source\GT\obj\x86\Debug\GT.MdiForm.resources
+F:\GT Source\GT\obj\x86\Debug\GT.Properties.Resources.resources
+F:\GT Source\GT\obj\x86\Debug\GT.testing.resources
+F:\GT Source\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\WINDOWSAPP\GT\bin\Debug\GT.exe.config
+D:\Projects\WINDOWSAPP\GT\bin\Debug\GT.exe
+D:\Projects\WINDOWSAPP\GT\bin\Debug\GT.pdb
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmSequencePlan.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmSequencePriority.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWeighPlan.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmPlanRevoke.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmChangePass.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmPressSlotMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmCustomerBarcode.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmDailyProdRpt.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmDashboard.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmDefectImage.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmLoad.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmCureMasterAddress.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmProdPlan.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmRePrint.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmSuspendActive.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWeighSelectManual.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmStencilProdModify.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmTtsIntegration.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmBlendMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmCancelStencil.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmDefectD4Master.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmInspectReview.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmGtBuild.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmLogin.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmFrictionMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmMouldMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmOrderPressAssign.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmPressMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmOrderImport.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmUnload.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmTypeMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmUserCreate.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWeightVariant.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWeightMaster.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmGtWeigh.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWeightTolerance.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmInspect.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmStencilDataModify.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmWoProdQty.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.MdiForm.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.Properties.Resources.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.testing.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.exe
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.pdb
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmGtNextSequence.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+D:\Projects\WINDOWSAPP\GT\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+D:\Projects\GT\bin\Debug\GT.exe.config
+D:\Projects\GT\bin\Debug\GT.exe
+D:\Projects\GT\bin\Debug\GT.pdb
+D:\Projects\GT\obj\x86\Debug\GT.frmConcessionPlan.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmConcessionChart.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmGtNextSequence.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmSequencePlan.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmSequencePriority.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWeighPlan.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmPlanRevoke.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmChangePass.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmPressSlotMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmCustomerBarcode.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmDailyProdRpt.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmDashboard.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmDefectImage.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmLoad.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmCureMasterAddress.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmProdPlan.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmRePrint.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmSuspendActive.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWeighSelectManual.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmStencilProdModify.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmTtsIntegration.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmBlendMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmCancelStencil.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmDefectD4Master.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmInspectReview.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmGtBuild.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmLogin.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmFrictionMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmMouldMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmOrderPressAssign.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmPressMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmOrderImport.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmUnload.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmTypeMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmUserCreate.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWeightVariant.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWeightMaster.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmGtWeigh.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWeightTolerance.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmInspect.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmStencilDataModify.resources
+D:\Projects\GT\obj\x86\Debug\GT.frmWoProdQty.resources
+D:\Projects\GT\obj\x86\Debug\GT.MdiForm.resources
+D:\Projects\GT\obj\x86\Debug\GT.Properties.Resources.resources
+D:\Projects\GT\obj\x86\Debug\GT.testing.resources
+D:\Projects\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\GT\obj\x86\Debug\GT.exe
+D:\Projects\GT\obj\x86\Debug\GT.pdb
+D:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.exe.config
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.exe
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.pdb
+D:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.exe
+D:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.pdb
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmConcessionPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmConcessionChart.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtNextSequence.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSequencePlan.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSequencePriority.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeighPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPlanRevoke.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmChangePass.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPressSlotMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCustomerBarcode.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDailyProdRpt.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDashboard.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDefectImage.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmLoad.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCureMasterAddress.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmProdPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmRePrint.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSuspendActive.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeighSelectManual.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmStencilProdModify.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmTtsIntegration.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmBlendMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCancelStencil.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDefectD4Master.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmInspectReview.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtBuild.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmLogin.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmFrictionMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmMouldMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmOrderPressAssign.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPressMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmOrderImport.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUnload.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmTypeMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUserCreate.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightVariant.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtWeigh.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightTolerance.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmInspect.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmStencilDataModify.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWoProdQty.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.MdiForm.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.Properties.Resources.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.testing.resources
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+E:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.exe.config
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.exe
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.pdb
+E:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.exe
+E:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.pdb
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmConcessionPlan.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmConcessionChart.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtNextSequence.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSequencePlan.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSequencePriority.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeighPlan.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPlanRevoke.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmChangePass.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPressSlotMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCustomerBarcode.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDailyProdRpt.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDashboard.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDefectImage.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmLoad.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCureMasterAddress.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmProdPlan.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmRePrint.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmSuspendActive.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeighSelectManual.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmStencilProdModify.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmTtsIntegration.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmBlendMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmCancelStencil.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmDefectD4Master.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmInspectReview.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtBuild.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmLogin.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmFrictionMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmMouldMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmOrderPressAssign.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmPressMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmOrderImport.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUnload.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmTypeMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmUserCreate.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightVariant.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightMaster.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmGtWeigh.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWeightTolerance.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmInspect.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmStencilDataModify.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.frmWoProdQty.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.MdiForm.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.Properties.Resources.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.testing.resources
+E:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.exe.manifest
+D:\Projects\WINDOWS PROJECTS\GT\bin\Debug\GT.application
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.exe.manifest
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.application
+D:\Projects\WINDOWS PROJECTS\GT\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.config
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.pdb
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.manifest
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.application
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.pdb
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionChart.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtNextSequence.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePlan.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePriority.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPlanRevoke.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmChangePass.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressSlotMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCustomerBarcode.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDailyProdRpt.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDashboard.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectImage.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLoad.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCureMasterAddress.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdPlan.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmRePrint.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSuspendActive.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighSelectManual.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilProdModify.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTtsIntegration.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmBlendMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCancelStencil.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectD4Master.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspectReview.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtBuild.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLogin.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmMouldMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderPressAssign.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderImport.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUnload.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTypeMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUserCreate.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightVariant.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightMaster.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtWeigh.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightTolerance.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspect.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilDataModify.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWoProdQty.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.MdiForm.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.Properties.Resources.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.testing.resources
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe.manifest
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.application
+D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.config
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.pdb
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.manifest
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.application
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.pdb
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionPlan.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionChart.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtNextSequence.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePlan.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePriority.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighPlan.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPlanRevoke.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmChangePass.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressSlotMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCustomerBarcode.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDailyProdRpt.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDashboard.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectImage.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLoad.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCureMasterAddress.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdPlan.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmRePrint.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSuspendActive.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighSelectManual.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilProdModify.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTtsIntegration.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmBlendMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCancelStencil.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectD4Master.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspectReview.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtBuild.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLogin.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmMouldMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderPressAssign.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderImport.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUnload.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTypeMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUserCreate.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightVariant.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightMaster.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtWeigh.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightTolerance.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspect.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilDataModify.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWoProdQty.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.MdiForm.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.Properties.Resources.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.testing.resources
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.GenerateResource.Cache
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe.manifest
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.application
+E:\lanka developing\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csprojResolveAssemblyReference.cache
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.AssemblyReference.cache
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionPlan.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmConcessionChart.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionBlendWeigh.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtNextSequence.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePlan.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSequencePriority.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighPlan.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPlanRevoke.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmChangePass.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressSlotMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCustomerBarcode.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDailyProdRpt.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmNonDataStencilBarcode.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDashboard.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectImage.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLoad.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCureMasterAddress.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdPlan.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmProdAllocateRpt.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmRePrint.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmSuspendActive.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeighSelectManual.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilProdModify.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTtsIntegration.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmBlendMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmCancelStencil.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmDefectD4Master.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspectReview.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtBuild.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmLogin.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmFrictionMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmMouldMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderPressAssign.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmPressMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmOrderImport.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUnload.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmTypeMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUpdateStencilNo.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmUserCreate.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightVariant.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightMaster.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmGtWeigh.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWeightTolerance.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmInspect.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmStencilDataModify.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.frmWoProdQty.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.MdiForm.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.Properties.Resources.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.testing.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.GenerateResource.cache
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.CoreCompileInputs.cache
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.pdb
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.Status.resources
+O:\jj\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.config
+O:\jj\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe.manifest
+O:\jj\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.application
+O:\jj\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe
+O:\jj\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.pdb
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.exe.manifest
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.application
+O:\jj\GT - LANKA(SITL_AND_SLTL)\obj\x86\Debug\GT.csproj.CopyComplete

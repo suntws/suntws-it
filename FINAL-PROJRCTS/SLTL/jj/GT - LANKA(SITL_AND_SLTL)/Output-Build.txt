@@ -1,0 +1,3 @@
+﻿------ Build started: Project: GT, Configuration: Debug x86 ------
+  GT -> D:\Projects\WINDOWS PROJECTS\GT - LANKA(SITL_AND_SLTL)\bin\Debug\GT.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
