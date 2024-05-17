@@ -37,7 +37,7 @@
             position: fixed;
             width: 7%;
             height: 6%;
-            padding: 4px;
+            padding: 5px;
             border: 3px solid #3ad1d8;
             background-color: #000000;
             right: 5px;
