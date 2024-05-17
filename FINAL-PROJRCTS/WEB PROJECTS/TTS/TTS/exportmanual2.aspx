@@ -8,7 +8,7 @@
         {
             cursor: pointer;
             position: relative;
-            width: 150px;
+            width: 151px;
             height: 25px;
         }
         .itemheadercss

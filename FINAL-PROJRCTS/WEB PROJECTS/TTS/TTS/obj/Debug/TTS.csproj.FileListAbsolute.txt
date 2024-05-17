@@ -42,3 +42,7 @@ D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.csprojResolveAssemblyReferenc
 D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.dll
 D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.pdb
 D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+O:\GIT TTS\suntws-it\FINAL-PROJRCTS\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+O:\GIT TTS\suntws-it\FINAL-PROJRCTS\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+O:\GIT TTS\suntws-it\FINAL-PROJRCTS\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.dll
+O:\GIT TTS\suntws-it\FINAL-PROJRCTS\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.pdb
